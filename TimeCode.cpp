@@ -1,3 +1,6 @@
+// Last Update: Ibraheem
+// Date & Time: Feb 18 - 11 am
+
 #include "TimeCode.h"
 #include <string>
 #include <stdexcept>

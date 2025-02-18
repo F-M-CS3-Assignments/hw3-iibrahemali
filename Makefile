@@ -1,4 +1,5 @@
 # makefile - program for cs iii - hw 4 - ibraheem
+
 all: tct # note to remember: run using this "./tct"
 
 tct: TimeCode.o TimeCodeTests.o
