@@ -14,3 +14,6 @@ it asked me i should config these before i can commit on my repo
 <br>
 ``git config --global user.name "Ibrahem"``
 
+
+
+fix error of git pull w/ git config pull.rebase false Mar 1
