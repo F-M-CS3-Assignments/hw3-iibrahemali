@@ -28,10 +28,14 @@ public:
 
     std::string ToString() const;
 
+    // Arithmetic operators
     TimeCode operator+(const TimeCode& other) const;
     TimeCode operator-(const TimeCode& other) const;
     TimeCode operator+(double a) const;
+    TimeCode operator*(double a) const;    // Added
+    TimeCode operator/(double a) const;    // Added
 
+    // Comparison operators
     bool operator==(const TimeCode& other) const;
     bool operator!=(const TimeCode& other) const;
     bool operator<(const TimeCode& other) const;
