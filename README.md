@@ -8,6 +8,8 @@ By Feb 19 on Canvas!
 By Tues (Actual: Wed or Thrus)
 Zybk 8 by Thrus (Actual: Fri)
 
+Do part II by Saturday Mar 1
+
 it asked me i should config these before i can commit on my repo
 <br>
 ``git config --global user.email "ibbrahemali@gmail.com"``

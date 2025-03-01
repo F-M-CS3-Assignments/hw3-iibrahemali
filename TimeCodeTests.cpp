@@ -1,3 +1,5 @@
+// updated by prof jing hu
+
 #include <iostream>
 #include <assert.h>
 #include "TimeCode.h"
