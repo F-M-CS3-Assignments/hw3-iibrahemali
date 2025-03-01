@@ -16,4 +16,4 @@ it asked me i should config these before i can commit on my repo
 
 
 
-fix error of git pull w/ git config pull.rebase false Mar 1
+fix error of git pull w/ ``git config pull.rebase false Mar 1``
